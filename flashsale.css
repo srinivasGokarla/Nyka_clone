@@ -9,6 +9,11 @@
     #top{
         background-image: url("https://images-static.nykaa.com/uploads/fb313ff9-17bc-4e6d-9e28-2451a9cfd3f7.jpg"); 
     }
+    .inform{
+        text-align: center;
+        color: blue;
+    
+    }
     
     .beauty {
         justify-content: center;
